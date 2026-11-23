@@ -92,13 +92,13 @@ footer {
   margin-top: 0;
 }
 
-/* Карточка товара — самостоятельный блок */
+/* Карточка товара — серый фон, чтобы выделяться на белой странице */
 .product-card {
   margin-bottom: 16px;
   padding: 16px;
-  border: 1px solid #dddddd;
+  border: 1px solid #cccccc;
   border-radius: 8px;
-  background-color: #ffffff;
+  background-color: #eeeeee;
 }
 
 /* Убираем лишний верхний отступ у заголовка карточки */
